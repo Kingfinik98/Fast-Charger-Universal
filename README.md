@@ -18,4 +18,4 @@
 - Reduced slow charging issue
  - Auto stop charging at 100% full
  - Download: here
- by: me
+ by: [Arkael](https://t.me/Arkael_kernel)
