@@ -12,7 +12,7 @@
 ![Status](https://img.shields.io/badge/Status-Stable-success?style=for-the-badge)
 
 Universal Fast Charging Module for Android Devices  
-Optimized for Snapdragon / QCOM Devices ⚡
+Optimized for Snapdragon / QCOM Devices /Mediatek ⚡
 
 </div>
 
