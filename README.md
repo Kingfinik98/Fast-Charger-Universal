@@ -37,17 +37,6 @@ Optimized for Snapdragon / QCOM Devices ⚡
 - ✅ Auto stop charging at 100%
 
 ---
-
-# 📷 Preview
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Kingfinik98/Fast-Charger-Universal/main/main/docs/Banner.jpg" width="85%"/>
-
-</div>
-
----
-
 # 📦 Installation
 
 ```bash
