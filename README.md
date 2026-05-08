@@ -20,6 +20,7 @@ Optimized for Snapdragon / QCOM Devices /Mediatek ⚡
 
 # ✨ Features
 
+- 🌐 Webroot (Webui supported)
 - ⚡ Universal fast charging service
 - 🚀 Snapdragon/QCOM fast charge support
 - 🔥 Force fastcharge mode enabled
